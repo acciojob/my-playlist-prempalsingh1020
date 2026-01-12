@@ -13,7 +13,8 @@ ul{
 section{
 	border-radius:10px;
 
-.play{
+.player-one,
+.player_two{
 	background-color: rgb(255, 255, 255);
 	padding:10px;
 	/* border-radius:10px; */
