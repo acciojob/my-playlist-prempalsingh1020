@@ -8,10 +8,15 @@ h1,h2{
 }
 ul{
 	list-style-type:none;
-	border-radius: 2px
+	border:2px solid black;
+	border-radius: 12px;
+	background-color:white;
 }
 section{
+	border:2px solid black;
 	border-radius:10px;
+	text-align:center;
+	background-color:white;
 
 .player-one,
 .player_two{
