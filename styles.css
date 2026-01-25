@@ -22,7 +22,7 @@ section{
 	background-color:white;
 
 .player_one, .player_two{
-	background-color: rgb(255, 255, 255); 
+	background-color:white; 
 	padding:10px;
 	border-radius:10px;
 	width:100%;
