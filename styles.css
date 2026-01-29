@@ -1,80 +1,35 @@
-/*  your css code here. If applicable */
-/* body{
-	background-color:rgb(204, 204, 204);
-}
-h1,h2{
-	 
-	text-align:center;
-}
-ul{
-	list-style-type:none;
-	border:2px solid black;
-	border-radius: 12px;
-	background-color:white;
-	li a{
-				text-decoration-line: none;
-	}
-}
-section{
-	border:2px solid black;
-	border-radius:10px;
-	text-align:center;
-	background-color:white;
-
-.player_one, .player_two{
-	background-color:rgb(255, 255, 255); 
-	padding:10px;
-	border-radius:10px;
-	width:100%;
-	margin:10px auto;
-	#para{
-		text-align:left
-	}
-}
-} */
-
-/*  your css code here. If applicable */
-
-
-body{
-	background-color:rgb(204,204,204);
-
-}
 .heading{
 	text-align:center;
-	
+}
+body{
+	background-color:rgb(204,204,204);
+}
+li{
+	list-style-type:none;
 }
 a{
 	text-decoration-line:none;
 }
-
-li{
-	list-style-type:none;
-}
-
-.list{
-	background-color:white;
-	padding:5px;
-	border-radius:10px;
-	border:1px solid black;
+div{
+	background-color:rgb(255,255,255);
+	padding:20px;
+	width:80%;
+	margin-left:10px;
+	border-radius:5px;
+	border:2px black solid;
 }
 .player_one{
 	background-color:rgb(255,255,255);
-	border:1px solid black;
-	padding:40px;
-	border-radius:20px;
-	width:80vw;
-	margin:auto;
-	
+	padding:20px;
+	width:80%;
+	border-radius:5px;
 }
-/* .player_two{
+.player_two{
 	background-color:rgb(255,255,255);
 	padding:20px;
-	border-radius:20px;
-	width:90%;
-} */
-
-
+	width:80%;
+	border-radius:5px;
+}
 
 
 
